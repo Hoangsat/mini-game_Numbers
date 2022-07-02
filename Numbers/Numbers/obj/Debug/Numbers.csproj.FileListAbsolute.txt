@@ -1,0 +1,11 @@
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Numbers\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Numbers\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Numbers\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Numbers\Numbers\Numbers\obj\Debug\Numbers.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Numbers\Numbers\Numbers\obj\Debug\Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Numbers\Numbers\Numbers\obj\Debug\Numbers.Form1.resources
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Numbers\Numbers\Numbers\obj\Debug\Numbers.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Numbers\Numbers\Numbers\obj\Debug\Numbers.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Numbers\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Numbers\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Numbers\Numbers\Numbers\obj\Debug\Numbers.pdb
