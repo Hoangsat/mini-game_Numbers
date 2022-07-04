@@ -14,6 +14,7 @@ namespace Numbers
     {
         int buttons = 9;
         int current = 0;
+        Random rnd = new Random();
         public Form1()
         {
             InitializeComponent();
@@ -39,8 +40,23 @@ Enter number 1 to 9", "About" );
         {
             for (int j = 1; j <= buttons; j++)
                 button(j).Text=j.ToString();
+            for(int j = 1; j <= buttons*10; j++)
+            swap_buttons();
+          
+
             for (int j = 1; j <= buttons; j++)
                 button(j).Visible = true;
+            current = 1;
+        }
+        private void swap_buttons()
+        {
+             int a = rnd.Next(1,buttons);
+             int b = rnd.Next(1,buttons);
+            if (a == b)
+                return;
+            string text = button(a).Text;
+            button(a).Text = button(b).Text;
+            button(b).Text = text;
         }
         private Button button (int nr)
         {
@@ -63,7 +79,12 @@ Enter number 1 to 9", "About" );
         }
         private void button1_Click(object sender, EventArgs e)
         {
-
+            string nr = ((Button)sender).Text; 
+            if(nr==current.ToString())
+            {
+                ((Button)sender).Visible = false;
+                current++;
+            }
         }
     }
 }
